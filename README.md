@@ -1,6 +1,10 @@
 ## Bikes Landing Readme
 Welcome to the Bikes Landing repository! This is a website that showcases a variety of bikes and offers a platform for customers to contact the company for further information and inquiries.
 
+[DEMO LINK](https://gabrielmaksimovich.github.io/bikes-landing/)
+![](preview.png)
+
+
 ## Website Features
 - A landing page that displays different types of bikes and their features.
 - A contact us section where users can fill out a form to send inquiries and receive a response from the company.

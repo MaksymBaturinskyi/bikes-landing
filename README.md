@@ -18,6 +18,9 @@ Welcome to the Bikes Landing repository! This is a website that showcases a vari
 - Bootstrap
 
 ## Getting Started
-- Clone the repository to your local machine using git clone https://github.com/gabrielmaksimovich/bikes-landing.git
+- Clone the repository to your local machine using 
+```
+git clone https://github.com/gabrielmaksimovich/bikes-landing.git
+```
 - Open the index.html file in your browser to see the website
 - Feel free to make changes and improvements to the code

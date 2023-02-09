@@ -2,7 +2,7 @@
 Welcome to the Bikes Landing repository! This is a website that showcases a variety of bikes and offers a platform for customers to contact the company for further information and inquiries.
 
 [DEMO LINK](https://gabrielmaksimovich.github.io/bikes-landing/)
-![](preview.png)
+[DESIGN LINK](https://www.figma.com/file/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0%3A1)
 
 
 ## Website Features
